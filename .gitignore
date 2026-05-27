@@ -1,0 +1,13 @@
+# React
+flight-app/node_modules
+flight-app/dist
+
+# Spring Boot
+flight-service/target
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
